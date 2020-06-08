@@ -1,0 +1,176 @@
+html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+.bgimg{
+    background-image: url('../img/gradient.jpg');
+    background-size: 100% 100%; 
+    background-attachment: fixed;
+    width: 100%;
+    height:750px;
+}
+
+
+.headerset{
+    padding-top: 250px;
+    box-sizing: border-box;
+}
+
+.headerset h2{
+    font-size: 30px;
+    font-weight:bold;
+}
+
+
+.headerset h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.knowmore{
+    margin-top: 10px;
+}
+
+/* ourabout */
+
+.ourabout{
+    padding: 100px 0px 60px;
+    height: 750px;
+}
+
+.ourabout h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.rowsetting{
+    margin: 80px 0px;
+}
+
+.imgsetting{
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+}
+
+.fa-question-circle-o{
+    margin-top: 6px;
+}
+
+/* staff */
+
+.staff{
+    height: 1300px;
+    width: 100%;
+    padding: 100px 0px 50px;
+}
+
+.staff h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.card{
+    margin-top: 40px;
+
+}
+
+/*contact*/
+
+.contact{
+    height: 500px;
+    width: 100%;
+    padding: 100px 0px 50px;
+}
+
+.contact h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.contact p{
+    margin-top: 30px;
+}
+
+.rowcontact p{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.fa-envelope-o{
+    margin-top: 25px;
+    margin-left: 5px;
+}
+
+.fa-phone{
+    margin-top: 25px;
+    margin-left: 5px;
+}
+
+/* locate */
+
+.locate{
+    height: 800px;
+    width: 100%;
+    padding: 100px 0px 50px;
+}
+
+.map-container{
+    margin-top: 20px;
+}
+
+.locate h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+/*scrolltotop*/
+
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+}
+
+.fa-chevron-up{
+    margin-bottom: 3px;
+}
+
+/*footer*/
+
+.footer{
+    height: 50px;
+}
+
+.footer h6{
+    line-height:50px;
+}
+
+/*Responsive*/
+
+@media(min-width:992px){
+
+}
+
+@media(min-width:768px) and (max-width:991px){
+
+}
+
+@media(min-width:575px) and (max-width:767px){
+
+}
+
+@media(min-width:480px) and (max-width:574px){
+
+}
+
+@media(max-width:479px){
+
+}
+
+
+
+
